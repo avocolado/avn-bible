@@ -7,8 +7,8 @@ hero:
   text: "The hub for adult visual novels"
   tagline: Everything you need to read, create, and enjoy adult visual novels.
   image:
-    light: "/bibleblack.svg"
-    dark: "/biblewhite.svg"
+    light: "public/bibleblack.svg"
+    dark: "public/biblewhite.svg"
     alt: Bible
   actions:
     - theme: brand
@@ -16,7 +16,7 @@ hero:
       link: /glossary
     - theme: alt
       text: Contribute on GitHub
-      link: https://github.com/avocolado/avn-info
+      link: https://github.com/avocolado/avn-bible
       external: true
 
 features:

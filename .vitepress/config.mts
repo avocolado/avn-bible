@@ -42,7 +42,7 @@ export default defineConfig({
       message: "Created by Avocolado and friends",
     },
     editLink: {
-      pattern: "https://github.com/avocolado/avn-info/edit/main/:path",
+      pattern: "https://github.com/avocolado/avn-bible/edit/master/:path",
     },
   },
 });

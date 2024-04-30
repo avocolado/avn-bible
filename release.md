@@ -15,6 +15,6 @@ Alas, once you're ready to release, upload to Itch, F95, MEGA, or wherever you w
 ---
 
 > [!IMPORTANT] CONCLUSION
-> Thank you for reading through our getting started guide. As you continue on in developing your game, please do us the favor of coming back and contributing to the dev guide and resources! We wish you the very best in your journey and look forward to each of your success stories. Always remember that somewhere out there are fans waiting for your game!
+> Thank you for reading through our getting started guide. As you continue on in developing your game, please do us the favor of coming back and contributing to the dev guide and resources! We wish you the very best in your journey and look forward to each of your success stories. Always remember that somewhere out, there are fans waiting for _your_ game!
 >
 > ~ Avocolado & friends
