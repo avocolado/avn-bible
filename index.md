@@ -7,8 +7,8 @@ hero:
   text: "The hub for adult visual novels"
   tagline: Everything you need to read, create, and enjoy adult visual novels.
   image:
-    light: "public/bibleblack.svg"
-    dark: "public/biblewhite.svg"
+    light: "/bookblack.svg"
+    dark: "/bookwhite.svg"
     alt: Bible
   actions:
     - theme: brand
