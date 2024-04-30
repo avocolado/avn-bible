@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "AVN Bible"
-  text: "The hub for adult visual novels"
+  text: "The hub for Adult Visual Novels"
   tagline: Everything you need to read, create, and enjoy adult visual novels.
   image:
     light: "/bookblack.svg"

@@ -44,7 +44,7 @@ Sometimes the fastest way really _is_ the best way. If you want to get started w
 > For real games that aren't just visual novels.
 
 ::: danger CAUTION
-Don't use these if you don't know what you're not already comfortable with programming.
+Don't use these if you're not already comfortable with programming.
 :::
 Both of these are reasonable solutions but are not recommended for most due to having to know how to program. While neither of these frameworks have the same out of the box functionality as Ren'Py, you have the entire freedom of a game engine at your fingertips.
 
