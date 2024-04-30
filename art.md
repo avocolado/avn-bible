@@ -39,7 +39,7 @@ Hand-drawn art has a large appeal and there's people willing to pay a premium fo
 
 Outside of handmade art, the dominant method is to create 3DCG renders. This is done by placing art and character assets in a 3D work space, then positioning a camera to take a 2D image or animation of that 3D world. While this might sound a lot harder than hand-drawn, the assets and characters are reusable, as are the 3D environments (scenes) that you setup.
 
-![Blender 3DCG](images/3DCG-blender.png)
+![Blender 3DCG](images/3dcg-blender.png)
 
 In order to produce a final render, we need to:
 
