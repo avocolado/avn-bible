@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+.vitepress/dist
+.vitepress/cache
+/package
+.env
+.env.*
+!.env.example
+firebase-debug.log
