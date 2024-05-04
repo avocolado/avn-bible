@@ -20,9 +20,8 @@ hero:
       external: true
 
 features:
-  - title: AVN Commmunity
+  - title: AVN Commmunity [In Progress]
     details: Find quality content and search AVNs by tag
-    link: https://avn.community
   - title: Getting Started
     details: A guide for new developers
     link: /getting-started
