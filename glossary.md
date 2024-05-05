@@ -72,13 +72,17 @@ A 3D eroge developed by Illusion, Honey Select offers extensive character custom
 
 A type of visual novel characterized by it's lack of player choice or branching narratives. Different from traditional visual novels, kinetic novels feature a linear storyline where the reader's interaction is limited to progressing through the predetermined narrative without making choices that affect the outcome.
 
-## Love Interest (LI)
+## Landlady
 
-A character within a visual novel who serves as a potential partner or love interest for the main character.
+A method of naming MC's mother to bypass the Patreon incest restrictions. Some games will let you change the title of this roommate to retain immersion, while other games will directly search and replace "mother" for "landlady". As a result, many games will reference how taboo it is to 'have sex with your landlay', confusing those not in the know. See [Roommate](#roommate) for siblings.
 
 ## Localization
 
 The process of adapting a visual novel to a specific region or language, including translation, cultural adaptation, and formatting changes.
+
+## Love Interest (LI)
+
+A character within a visual novel who serves as a potential partner or love interest for the main character.
 
 ## Male Dominance (Maledom)
 
@@ -94,7 +98,7 @@ Gameplay segments or activitie within a visual novel that deviate from the main 
 
 ## Muncher
 
-A player who particular enjoys oral sex scenes in AVNs.
+A player who particularly enjoys oral sex scenes in AVNs.
 
 ## NTR
 
@@ -132,7 +136,9 @@ Many players and devs will refer to rendered images as "renders" and each one re
 
 A genre within AVNs that focuses on building emotional connections and romantic relationships between characters, often with a focus on character development, dialogue, and emotional intimacy.
 
-## Sandbox
+## Roommate
+
+A method of naming MC's sibling to bypass the Patreon incest restrictions. Some games will let you change the title of this roommate to retain immersion, while other games will directly search and replace "sister" for "roommate". As a result, many games will reference how taboo it is to 'have sex with your roommate', confusing those not in the know. See [Landlady](#landlady) for mother/child.
 
 ## Scripting
 

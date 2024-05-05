@@ -10,6 +10,11 @@ Please contribute to this page if you have links to share!
 
 > Main subreddit for AVN followers.
 
+[AVN Community Reddit](https://www.reddit.com/r/AVN_Lovers/)
+
+> Smaller subreddit for AVN followers and subreddit for the AVNs and Ass Men Discord.
+> Note: This website and subreddit and unaffiliated.
+
 [Itch.io](https://itch.io/)
 
 > A platform for indie games that almost all AVNs are uploaded to.
