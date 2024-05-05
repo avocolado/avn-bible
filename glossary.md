@@ -10,6 +10,10 @@ AVNs generally refer to indie or Western creations and have a distinctly separat
 
 A storytelling technique in visual novels where player choices can lead to different story paths or outcomes, resulting in multiple possible endings or variations in the narrative.
 
+## Bro Character
+
+Male sidekick to the MC, usually used for comedic relief. Commonly portrayed as wannabe womanizers with varying degrees of success.
+
 ## BDSM
 
 BDSM is short for Bondage, Discipline, Dominance, Submission, Sadism, and Masochism and refers to a range of sexual practices involving power exchange, restraint, and sensory stimulation.
@@ -17,6 +21,10 @@ BDSM is short for Bondage, Discipline, Dominance, Submission, Sadism, and Masoch
 ## Route
 
 A narrative path within a visual novel that focuses on developing the relationship between the player character and a specific in-game character.
+
+## Canon Scene
+
+A scene that the player will always see, regardless of choices made, or path taken.
 
 ## Computer Graphics (CG)
 
@@ -46,7 +54,9 @@ A Japanese term used to describe a female character with male genitalia.
 
 Short for Female Dominance, which refers to a genre or theme in adult content where women take on dominant roles, and exert control or power over their male partners. Femdom can involve various forms of domination, such as BDSM, humiliation, or other forms of submission.
 
-## Free Roam
+## Free-Roam Events
+
+A game section where players are given the freedom to explore the game world. This exploration phase may or may not have specific objectives, depending on the game's genre. During a free roam event, players can roam around, discover new areas, complete side content or tasks, or interact with Love Interests (LIs).
 
 ## F95Zone
 
@@ -70,11 +80,11 @@ A 3D eroge developed by Illusion, Honey Select offers extensive character custom
 
 ## Kinetic Novel
 
-A type of visual novel characterized by it's lack of player choice or branching narratives. Different from traditional visual novels, kinetic novels feature a linear storyline where the reader's interaction is limited to progressing through the predetermined narrative without making choices that affect the outcome.
+A type of visual novel characterized by its lack of player choice or branching narratives. Different from traditional visual novels, kinetic novels feature a linear storyline where the reader's interaction is limited to progressing through the predetermined narrative without making choices that affect the outcome.
 
 ## Landlady
 
-A method of naming MC's mother to bypass the Patreon incest restrictions. Some games will let you change the title of this roommate to retain immersion, while other games will directly search and replace "mother" for "landlady". As a result, many games will reference how taboo it is to 'have sex with your landlay', confusing those not in the know. See [Roommate](#roommate) for siblings.
+A method of naming MC's mother to bypass the Patreon incest restrictions. Some games will let you change the title of this roommate to retain immersion, while other games will directly search and replace "mother" for "landlady". As a result, many games will reference how taboo it is to 'have sex with your landlady', confusing those not in the know. See [Roommate](#roommate) for siblings.
 
 ## Localization
 
@@ -90,11 +100,15 @@ Refers to a genre or theme in adult content where men take on dominant roles, an
 
 ## Main Character (MC)
 
-The player-controlled protagonist in an adult visual novel, around whom the narrative revolves. The MC interacts with other characters, makes decisions that influence the story's progression. The MC's personality, background, and motivations vary depending on the specific visual novel, and readers typically assume their role to experience the story from their perspective.
+The player-controlled protagonist in an adult visual novel, around whom the narrative revolves. The MC interacts with other characters, and makes decisions that influence the story's progression. The MC's personality, background, and motivations vary depending on the specific visual novel, and readers typically assume their role to experience the story from their perspective.
+
+## Main Girl (MG)
+
+[Love Interests](#love-interest-li)) that are intertwined with the development of the story. They usually have specific endings with the MC.
 
 ## Minigame
 
-Gameplay segments or activitie within a visual novel that deviate from the main story, offering readers opportunities to engage in different types of challenges, puzzles, or interactive sequences.
+Gameplay segments or activities within a visual novel that deviate from the main story, offering readers opportunities to engage in different types of challenges, puzzles, or interactive sequences.
 
 ## Muncher
 
@@ -111,7 +125,7 @@ NTR is an abbreviation for a Japanese term that actually encompasses 3 separate 
 The nuance of this term is not widely known so NTR is often used as a synonym for cuckolding, or even non-consensual sex.
 
 :::danger CONTROVERSIAL
-The topic of NTR can be polarizing, which has led devs to label games as having NTR or explicitly not having NTR. Both camps have a passionate base of very vocal players that actively search for or avoid games that have NTR. No matter what your stance is, this can be a divisive topic.
+The topic of NTR can be polarizing, which has led devs to label games as having NTR or explicitly not having NTR. Both camps have a passionate base of very vocal players who actively search for or avoid games that have NTR. No matter what your stance is, this can be a divisive topic.
 :::
 
 ## NSFW
@@ -132,6 +146,10 @@ Rendering refers to the process of generating a 2D image from a 2D or 3D model v
 
 Many players and devs will refer to rendered images as "renders" and each one refers to a uniquely rendered image.
 
+## Ren’Py
+
+A visual novel engine that allows devs to use words, images, and sounds to tell interactive stories that run on computers and mobile devices. These can be both visual novels and life simulation games.
+
 ## Romance
 
 A genre within AVNs that focuses on building emotional connections and romantic relationships between characters, often with a focus on character development, dialogue, and emotional intimacy.
@@ -140,9 +158,19 @@ A genre within AVNs that focuses on building emotional connections and romantic 
 
 A method of naming MC's sibling to bypass the Patreon incest restrictions. Some games will let you change the title of this roommate to retain immersion, while other games will directly search and replace "sister" for "roommate". As a result, many games will reference how taboo it is to 'have sex with your roommate', confusing those not in the know. See [Landlady](#landlady) for mother/child.
 
+## Sandbox
+
+Games that center their gameplay on daytime cycles or a world map that the player can access to engage in a world event. There are story arcs that are only accessible at different points in the story, and/or different points in the day. These games are less linear than regular AVNs and give the players the freedom to explore the game world at their own pace.
+
+Games can have sandbox elements like free-roam events without being considered sandbox games as long as the gameplay remains mostly linear.
+
 ## Scripting
 
 The process of writing, coding, or implementing the script and dialogue for a visual novel, including branching narratives, dialogue trees, and event triggers.
+
+## Side Girl (SG)
+
+[Love Interests](#love-interest-li)) that offer side content during the story, but that don’t affect the development of the plot in any major or vital way.
 
 ## Slice of Life
 
