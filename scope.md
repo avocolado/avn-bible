@@ -4,7 +4,7 @@
 >
 > \- AVIAN-madness
 
-Creating an AVN much more work than most people imagine and that you will quickly look back at your original work and find it terrible. Choosing a game that is too large in scope will result in you not finishing your game, or if you do, having much worse art at the beginning.
+Creating an AVN is much more work than most people imagine and that you will quickly look back at your original work and find it terrible. Choosing a game that is too large in scope will result in you not finishing your game, or if you do, having much worse art at the beginning.
 
 :::info EXAMPLE
 
