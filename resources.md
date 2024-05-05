@@ -34,6 +34,10 @@ Please contribute to this page if you have links to share!
 
 > Inside this magazine is an article on how to write AVNs by Joshua, the writer of the acclaimed Race of Life.
 
+[Improving your theme](/theming-genre)
+
+> How to theme your writing to fit your genre better by /u/Far-Opinion-8644
+
 [Advice for New Devs](https://firebasestorage.googleapis.com/v0/b/avn-web.appspot.com/o/magazines%2F2-8.pdf?alt=media&token=4d6b2bb8-2ba2-4f83-b948-f4c6b6fb7874)
 
 > Inside this magazine is an article with advice on getting started from new developers.
