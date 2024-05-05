@@ -10,10 +10,11 @@ Please contribute to this page if you have links to share!
 
 > Main subreddit for AVN followers.
 
-[AVN Community Reddit](https://www.reddit.com/r/AVN_Lovers/)
+[AVN Community Reddit](https://www.reddit.com/r/AVNCommunity/)
 
 > Smaller subreddit for AVN followers and subreddit for the AVNs and Ass Men Discord.
-> Note: This website and subreddit and unaffiliated.
+>
+> _Note: This website and subreddit are unaffiliated._
 
 [Itch.io](https://itch.io/)
 
