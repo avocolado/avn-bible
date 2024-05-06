@@ -1,3 +1,4 @@
+import footnote from "markdown-it-footnote";
 import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
@@ -7,7 +8,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
-
+    search: {
+      provider: "local",
+    },
     sidebar: [
       {
         text: "General",
@@ -67,6 +70,11 @@ export default defineConfig({
     },
     editLink: {
       pattern: "https://github.com/avocolado/avn-bible/edit/master/:path",
+    },
+  },
+  markdown: {
+    config: (md) => {
+      md.use(footnote);
     },
   },
   head: [

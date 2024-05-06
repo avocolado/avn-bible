@@ -38,7 +38,7 @@ Please contribute to this page if you have links to share!
 
 > Inside this magazine is an article on how to write AVNs by Joshua, the writer of the acclaimed Race of Life.
 
-[Improving your theme](/articles/theming-genre)
+[What's your Genre](/articles/whats-your-genre-far-opinion-8644)
 
 > How to theme your writing to fit your genre better by /u/Far-Opinion-8644
 
@@ -49,6 +49,10 @@ Please contribute to this page if you have links to share!
 [Writing Branching with Attributes](https://www.choiceofgames.com/2011/07/by-the-numbers-how-to-write-a-long-interactive-novel-that-doesnt-suck/)
 
 > A piece by Choice of Games that discusses attribute based branching.
+
+[The Writing Process](/articles/the-writing-process-gloomy-ghost)
+
+> Insight and tips for the writing process by Gloomy Ghost Studio
 
 ## Game Recommendations
 

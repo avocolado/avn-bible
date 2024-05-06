@@ -1,6 +1,6 @@
 # What's Your Genre?
 
-> _Author: /u/Far-Opinion-8644_
+> _Author: /u/Far-Opinion-8644_ [^1]
 
 ::: info WHY
 I love it when folks approach H-games like a real art form and if I can advance that conversation, I'm always happy to do it. I'm a dev whose worked on several projects, and I want to get devs (and fans) thinking about one of my favorite writing topics, genre.
@@ -43,4 +43,4 @@ I can think of dozens of projects that started as silly, sexy romances and then 
 
 That's not to say that you can never make a project that introduces new genres of engagement over the story, or that never expand in narrative scope as it continues. It just pays to understand how and why the genre is changing, so you can plant your seeds early and so you can make everything fit together in a more cohesive way.
 
-_[Join the Discussion](https://www.reddit.com/r/lewdgames/comments/1ckt81m/devs_worskhop_whats_your_genre/)_
+[^1]: [Reddit](https://www.reddit.com/r/lewdgames/comments/1ckt81m/devs_worskhop_whats_your_genre/)
