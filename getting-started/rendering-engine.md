@@ -6,14 +6,14 @@ However while DAZ, Koikatsu, and Honey Select have their own individual setbacks
 
 ### Koikatsu
 
-> ![Koikatsu Engine Example](images/kk-engine-example.png)
+> ![Koikatsu Engine Example](/images/kk-engine-example.png)
 
 ### Honey Select
 
-> ![Honey Select Engine Example](images/hs-engine-example.png)
+> ![Honey Select Engine Example](/images/hs-engine-example.png)
 
 ### DAZ
 
-> ![DAZ Engine Example](images/daz-engine-example.png)
+> ![DAZ Engine Example](/images/daz-engine-example.png)
 
 If you know more about what you're doing, you might consider exporting your characters from their respective engines and then posing and animating in Blender, Unreal Engine, or even Unity. It can be a little complex so it's not suggested to your average developer and artist.

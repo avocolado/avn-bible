@@ -2,7 +2,8 @@
 
 _Any developer can tell you that the part that takes the longest is the art._
 
-> ![](images/long-render-time.png)
+> ![](/images/long-render-time.png)
+> _Only 839 hours left to go..._
 
 There's a few different ways to go about doing the art, but the most important thing is making sure you like the style and making sure that it's not completely out of your control. Partnering with an unreliable artist, working in a medium that takes an exorbitant amount of time, or making an art style that you don't like _are all recipes for an incomplete game_. Before we go into what options are popular amongst devs, let's cover hand-drawn art first.
 
@@ -10,28 +11,28 @@ There's a few different ways to go about doing the art, but the most important t
 
 Handrawn art has the appeal of being entirely customizable and a fan base that specifically loves to see handrawn art.
 
-![Katawa Shoujo](images/katawa-shoujo.png)
+![Katawa Shoujo](/images/katawa-shoujo.png)
 
 The art is not limited by the proportions of a character, lighting, shading, or anything else that comes with rendering from 3D models. But unless you're an artist or you have a close artist friend... _you're probably on your own to make your own art_. While it _is_ possible to commission your own art from the get go, very few successful AVNs are made this way. That's because unlike JAVNs and other games, most AVNs are made 'as you go' and do not have the monetary means to pay for an artist that is talented with the free time to dedicate to an open ended project.
 
 Because of the time and effort required to hand-draw art, we almost exclusively see 2D sprites used. The process usually begins with a character reference sheet of different angles, expressions, and proportions of the character(s) based off of the details provided to the artist.
 
-![Swimmer's Admiration Concept Art](images/swimmers-admiration-concept.png)
+![Swimmer's Admiration Concept Art](/images/swimmers-admiration-concept.png)
 This is then used to create sprites with different expressions that get posted on a variety of backgrounds.
 
 ### Kasumi @ School BG
 
-> ![Kasumi at School Background](images/kasumi-school-bg.png)
+> ![Kasumi at School Background](/images/kasumi-school-bg.png)
 
 ### Kasumi & Coach @ Pool BG
 
-> ![Kasumi & Coach at Pool Background](images/kasumi-pool-bg.png)
+> ![Kasumi & Coach at Pool Background](/images/kasumi-pool-bg.png)
 
 For more important scenes, notably scenes that contain sexual content, artists will render unique CGs or animations. How many CGs show up in a game depends on the size, scope, and budget of the project, and of course the artist themselves.
 
 ### Kasumi Swimming CG
 
-> ![Kasumi Swimming CG](images/kasumi-cg.png)
+> ![Kasumi Swimming CG](/images/kasumi-cg.png)
 
 Hand-drawn art has a large appeal and there's people willing to pay a premium for that. These games have a substantial following on Kickstarter where supporters may pay upfront for completely hand-drawn AVNs - an idea that is almost unseen in the 3DCG AVN community so far.
 
@@ -39,7 +40,7 @@ Hand-drawn art has a large appeal and there's people willing to pay a premium fo
 
 Outside of handmade art, the dominant method is to create 3DCG renders. This is done by placing art and character assets in a 3D work space, then positioning a camera to take a 2D image or animation of that 3D world. While this might sound a lot harder than hand-drawn, the assets and characters are reusable, as are the 3D environments (scenes) that you setup.
 
-![Blender 3DCG](images/3dcg-blender.png)
+![Blender 3DCG](/images/3dcg-blender.png)
 
 In order to produce a final render, we need to:
 
@@ -62,11 +63,11 @@ There are several popular free character creators that allow characters to be cr
 
 DAZ occasional gets criticism for having uncanny characters, like this one here.
 
-![DAZ Uncanny Valley](images/daz-uncanny.png)
+![DAZ Uncanny Valley](/images/daz-uncanny.png)
 
 But as a wise man once said, it's _not the weapon, but the wielder_. Check out this render, also made in DAZ.
 
-![DAZ Quality Render](images/daz-quality-render.png)
+![DAZ Quality Render](/images/daz-quality-render.png)
 
 #### Pros
 
@@ -88,11 +89,11 @@ Games like [Koikatsu](https://wiki.anime-sharing.com/hgames/index.php?title=Koik
 
 KK characters possess a traditional anime-style.
 
-> ![Koikatsu Style](images/koikatsu-style.png)
+> ![Koikatsu Style](/images/koikatsu-style.png)
 
 HS characters, on the other hand, possess a more realistic Asian/anime fusion style.
 
-> ![Honey Select Style](images/honey-select-style.png)
+> ![Honey Select Style](/images/honey-select-style.png)
 
 While these might seem like niche, amateur, or even illegitimate tools, Koikatsu and Honey Select have a surprisingly varied eco system of creators and interests. They can be used to make characters following the style of Genshin Impact, Honkai Star Rail, various anime, and even Western cartoons characters.
 

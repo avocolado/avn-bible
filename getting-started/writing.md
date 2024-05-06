@@ -10,6 +10,6 @@ Some developers render as they write each dialogue line. Others storyboard the e
 
 A common misconception for many is the idea that writing is the easy part of creating a visual novel. But once people begin to write, they realize that the writing is just as difficult as the programming and the art. How and when to branch, whether to soft branch or hard branch, whether to use points, etc. The complexity ends up to the point where devs end up using tools like [Articy](https://www.articy.com/en/) or [Twine](https://twinery.org/) to storyboard their branching.
 
-> ![Articy from Talos Principle](images/articy-talos.png)
+> ![Articy from Talos Principle](/images/articy-talos.png)
 
 If you're struggling to get started, suggest you write out anything and everything that's on your mind, no matter how terrible, and then go back and edit later. Getting something down is the hardest part! Once you get over that hurdle you'll find editing your mess of dialogue and story points so much easier.

@@ -33,11 +33,11 @@ Sometimes the fastest way really _is_ the best way. If you want to get started w
 
 ### [Tyrano Builder](https://tyranobuilder.com/) [Visual Editor Visual Novel Builder]
 
-> ![Tyrano Builder Example](images/tyranobuilder.png)
+> ![Tyrano Builder Example](/images/tyranobuilder.png)
 
 ### [Twine](https://twinery.org/) [Text Based Adventures]
 
-> ![Twiner Example](images/twinery.png)
+> ![Twiner Example](/images/twinery.png)
 
 ## Game Engines
 
@@ -50,7 +50,7 @@ Both of these are reasonable solutions but are not recommended for most due to h
 
 ### [Unity](https://unity.com/download) with [NaniNovel](https://naninovel.com/guide/) (Paid Service)
 
-> ![Nani Novel Example](images/naninovel.png)
+> ![Nani Novel Example](/images/naninovel.png)
 
 ::: warning
 NaniNovel requires a one time payment to use.
@@ -58,7 +58,7 @@ NaniNovel requires a one time payment to use.
 
 ### [Godot](https://godotengine.org/) with [Dialogic](https://github.com/dialogic-godot/dialogic)
 
-> ![Dialogic Example](images/dialogic.png)
+> ![Dialogic Example](/images/dialogic.png)
 
 ::: warning
 Dialogic is still a young project and has fewer features compared to other frameworks.

@@ -24,7 +24,7 @@ features:
     details: Find quality content and search AVNs by tag
   - title: Getting Started
     details: A guide for new developers
-    link: /getting-started
+    link: /getting-started/intro
   - title: Resources
     details: Communities, guides, and other resources for players and devs
     link: /resources

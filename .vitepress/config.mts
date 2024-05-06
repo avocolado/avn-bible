@@ -11,26 +11,41 @@ export default defineConfig({
     sidebar: [
       {
         text: "General",
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: "Glossary", link: "/glossary" },
           { text: "Resources", link: "/resources" },
         ],
       },
-
       {
         text: "Getting Started",
-        collapsed: false,
+        collapsed: true,
         items: [
-          { text: "Introduction", link: "/getting-started" },
-          { text: "Art", link: "/art" },
-          { text: "Rendering Engine", link: "/rendering-engine" },
-          { text: "Game Engine", link: "/game-engine" },
-          { text: "Scope", link: "/scope" },
-          { text: "Writing", link: "/writing" },
-          { text: "H-Scenes", link: "/h-scenes" },
-          { text: "Music & SFX", link: "/music-and-sfx" },
-          { text: "Release", link: "/release" },
+          { text: "Introduction", link: "/getting-started/intro" },
+          { text: "Art", link: "/getting-started/art" },
+          {
+            text: "Rendering Engine",
+            link: "/getting-started/rendering-engine",
+          },
+          { text: "Game Engine", link: "/getting-started/game-engine" },
+          { text: "Scope", link: "/getting-started/scope" },
+          { text: "Writing", link: "/getting-started/writing" },
+          { text: "H-Scenes", link: "/getting-started/h-scenes" },
+          { text: "Music & SFX", link: "/getting-started/music-and-sfx" },
+          { text: "Release", link: "/getting-started/release" },
+        ],
+      },
+      {
+        text: "Daz",
+        collapsed: true,
+        items: [{ text: "Resources", link: "/daz-resources" }],
+      },
+      {
+        text: "Koikatsu/Honey Select (Illusion)",
+        collapsed: true,
+        items: [
+          { text: "Installation", link: "/illusion-installation" },
+          { text: "Resources", link: "/illusion-resources" },
         ],
       },
     ],

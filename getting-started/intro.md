@@ -12,6 +12,6 @@ Not only is making an AVN a lot of work, getting started has historically been p
 This issue might be confounding to a new dev, but the 25th nipple bone is an unfortunate reality for some Koikatsu devs.
 :::
 
-> ![What the hell is a bnip025 and why is it... doing these things?](images/bnip025.png)
+> ![What the hell is a bnip025 and why is it... doing these things?](/images/bnip025.png)
 
 Luckily... this guide is here to make your journey a little easier. A little advice - before installing and making any major decisions, we recommended that you read to the end to get a holistic view of what goes into being a developer.
