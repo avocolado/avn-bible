@@ -22,9 +22,9 @@ BDSM is short for Bondage, Discipline, Dominance, Submission, Sadism, and Masoch
 
 A narrative path within a visual novel that focuses on developing the relationship between the player character and a specific in-game character.
 
-## Canon Scene
+## Canon Event
 
-A scene that the player will always see, regardless of choices made, or path taken.
+Derived from the term [canon](https://en.wikipedia.org/wiki/Canon_(fiction)). An event the player will always see, regardless of choices made, or path taken.
 
 ## Computer Graphics (CG)
 
@@ -160,9 +160,9 @@ A method of naming MC's sibling to bypass the Patreon incest restrictions. Some 
 
 ## Sandbox
 
-Games that center their gameplay on daytime cycles or a world map that the player can access to engage in a world event. There are story arcs that are only accessible at different points in the story, and/or different points in the day. These games are less linear than regular AVNs and give the players the freedom to explore the game world at their own pace.
+A genre that centers its gameplay on daytime cycles or a world map that the player can access to engage in a world event. There are often story arcs that are only accessible at different points in the story, and/or different points in the day. These games are less linear than regular AVNs and give the players the ability to explore the game world at their own pace.
 
-Games can have sandbox elements like free-roam events without being considered sandbox games as long as the gameplay remains mostly linear.
+Games can have sandbox elements like free-roam events without being considered sandbox games, as long as the gameplay remains mostly linear.
 
 ## Scripting
 
@@ -170,7 +170,7 @@ The process of writing, coding, or implementing the script and dialogue for a vi
 
 ## Side Girl (SG)
 
-[Love Interests](#love-interest-li)) that offer side content during the story, but that don’t affect the development of the plot in any major or vital way.
+[Love Interests](#love-interest-li) that offer side content during the story but don’t affect the development of the plot in any major or vital way.
 
 ## Slice of Life
 
